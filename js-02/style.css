@@ -1,0 +1,21 @@
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.text {
+  font-size: 47px;
+}
+
+.btn {
+  background-color: rgb(133, 131, 133);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  padding: 11px;
+  cursor: pointer;
+}
